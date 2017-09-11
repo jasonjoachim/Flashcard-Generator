@@ -1,0 +1,23 @@
+{
+  "name": "Flashcard-Generator",
+  "version": "1.0.0",
+  "description": "Utilization of Cloze Constructors to make flash cards.",
+  "main": "BasicCard.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jasonjoachim/Flashcard-Generator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jasonjoachim/Flashcard-Generator/issues"
+  },
+  "homepage": "https://github.com/jasonjoachim/Flashcard-Generator#readme",
+  "dependencies": {
+    "inquirer": "^3.2.3"
+  }
+}
